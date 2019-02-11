@@ -30,3 +30,8 @@ C:\vs2017\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreap
 C:\vs2017\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.1\WebApplicationCore.dll
 C:\vs2017\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.1\WebApplicationCore.pdb
 C:\vs2017\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.1\WebApplicationCore.csproj.CopyComplete
+C:\vs2017\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.1\Razor\Models\Create.g.cshtml.cs
+C:\vs2017\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.1\Razor\Models\Delete.g.cshtml.cs
+C:\vs2017\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.1\Razor\Models\Details.g.cshtml.cs
+C:\vs2017\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.1\Razor\Models\Edit.g.cshtml.cs
+C:\vs2017\source\repos\WebApplicationCore\WebApplicationCore\obj\Debug\netcoreapp2.1\Razor\Models\Index.g.cshtml.cs
